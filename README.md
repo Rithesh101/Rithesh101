@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on AI projects<br>I’m currently learning Deep Learning, DSA, ReactJS<br>
+I’m currently working on AI projects<br>I’m currently learning Deep Learning, DSA, Web Development<br>
 
 
 ## 🌐 Socials:
